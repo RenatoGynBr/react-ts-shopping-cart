@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "name": "Headset",
+      "price": 279.90,
+      "imgUrl": "/images/headset.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Notebook",
+      "price": 6999,
+      "imgUrl": "/images/notebook.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Smart TV",
+      "price": 3999,
+      "imgUrl": "/images/tv.jpg"
+    },
+    {
+      "id": 4,
+      "name": "IPhone",
+      "price": 9999,
+      "imgUrl": "/images/iphone.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Bicicleta",
+        "price": 1999,
+        "imgUrl": "/images/byke.jpg"
+    },
+    {
+        "id": 6,
+        "name": "BT-Box",
+        "price": 1299,
+        "imgUrl": "/images/box.jpg"
+    }
+]
+  
