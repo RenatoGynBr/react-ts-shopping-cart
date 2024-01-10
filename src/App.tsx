@@ -33,7 +33,8 @@ function App() {
 
         <p className="read-the-docs">
           <hr></hr>
-          &copy;2024 By Renato Cavalcante Silva - Goiânia-GO, Brazil
+          { new Date() + ''}
+          <p>&copy;2024 By Renato Cavalcante Silva - Goiânia-GO, Brazil</p>
         </p>
       </Container>
     </>
